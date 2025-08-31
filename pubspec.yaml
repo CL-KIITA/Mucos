@@ -1,0 +1,20 @@
+name: conscript_curator
+version: 0.1.1
+description: >
+  Official Website for Museum of Constructed Scripts (Mucos; Conscript Musium)
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+homepage: https://kiita.migdal.jp/Mucos/
+repository: https://github.com/CL-KIITA/Mucos
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  jaspr: ^0.20.0
+executables:
+  build:
+topics:
+  - bot
+  - discord
+  - nyxx
+  - Conscript_Musium
+  - Example_Sentence
+publish_to: none
