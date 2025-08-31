@@ -1,11 +1,13 @@
 ---
-layout: null
-title: 人工文字美術館
+layout: document
+title: Home - 人工文字美術館
 date: 2025-08-31 18:35:00 +0900
 state: coming_soon
 ---
+# **人工文字美術館**
 
-# **Museum of Constructed Scripts** (Mucos)
+
+## **Museum of Constructed Scripts** (Mucos)
 
 **準備中 - Coming Soon...**
 
