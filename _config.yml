@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+exclude: ["*"]
+include: ["index.md"]
+timezone: "Asia/Tokyo"
+lsi: false
+safe: true
+url: https://kiita.migdal.jp
+baseurl: /Mucos/
